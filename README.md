@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/><br/>
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hey There
+  Hi I'm Shaymaa Shoman
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -22,7 +22,9 @@
   
 - :zap: I practice on real sites.
 
-- :mailbox:How to reach me: https://www.linkedin.com/in/shaymaa-shoman-b8340a1b3/<br/>
+- :mailbox:How to reach me: this Linkedin https://www.linkedin.com/in/shaymaa-shoman-b8340a1b3/<br/>
+ - :mailbox:How to reach me: this email shemooshoman@gmail.com<br/>
+
 
 </div>
 <div>
